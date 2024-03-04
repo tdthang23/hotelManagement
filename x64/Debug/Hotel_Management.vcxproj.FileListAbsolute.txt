@@ -1,0 +1,2 @@
+D:\OOP_VS\Hotel_Management\Hotel_Management\x64\Debug\Hotel_Management.exe
+D:\tdt\OOP_VS\Hotel_Management\Hotel_Management\x64\Debug\Hotel_Management.exe

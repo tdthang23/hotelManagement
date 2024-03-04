@@ -1,0 +1,11 @@
+﻿  customer.cpp
+  customer_management.cpp
+D:\tdt\OOP_VS\Hotel_Management\Hotel_Management\customer_management.cpp(26,9): warning C4101: 'pos': unreferenced local variable
+D:\tdt\OOP_VS\Hotel_Management\Hotel_Management\customer_management.cpp(67,9): warning C4101: 'pos': unreferenced local variable
+  main.cpp
+  revenue.cpp
+  room.cpp
+  room_management.cpp
+D:\tdt\OOP_VS\Hotel_Management\Hotel_Management\room_management.cpp(138,9): warning C4101: 'pos': unreferenced local variable
+  Generating Code...
+  Hotel_Management.vcxproj -> D:\tdt\OOP_VS\Hotel_Management\Hotel_Management\x64\Debug\Hotel_Management.exe
